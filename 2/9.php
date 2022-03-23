@@ -1,3 +1,3 @@
 <?php
-    echo "<img src=\"cat.png\">";
+    echo "<img src=\"..\..\img\cat.png\">";
 ?>
