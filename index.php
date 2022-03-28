@@ -1,5 +1,5 @@
 <!doctype html>
-<?php $num_chapters = 2 ?>
+<?php $num_chapters = 3 ?>
 <html>
     <head>
         <meta charset="utf-8"></meta>
